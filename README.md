@@ -9,6 +9,7 @@
 <a href="https://www.figma.com/file/jb0bQ1Zv0CzF4BGL6q4sQn/Carolina-Paez-Valdez?type=design&node-id=4-511&mode=design&t=SMY2tWEwdV7ttyU5-0">Link de Figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
+<img  src="./public/images/punto-2.png">
 
 <h2>Punto 3: Diseño CON CSS</h2>
 
