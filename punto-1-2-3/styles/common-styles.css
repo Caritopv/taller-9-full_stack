@@ -1,0 +1,67 @@
+a {
+    font-family: "jost";
+}
+
+button {
+    padding: 15px 25px ;
+    font-family: 'Jost';  
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none; 
+}
+
+nav a{
+    color: #454868;
+    text-decoration: none;/* para quitar el subrayado*/
+    font-weight: 500;
+}
+
+.header_settings {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+ 
+    font-family:'Jost';
+    font-weight: 300;
+    color: #454868;
+}
+
+header button {
+    background-color: transparent;
+    border: 1px solid #45486843;
+    color: #454868;
+}
+
+.button--orange{
+    background-color: #fd909b;
+    color: white;
+    border: none;
+}
+
+h2 {
+    font-family:'Jost';
+    font-size: 45px;
+    color: #010851;
+    line-height: 124%;
+    letter-spacing: -1%;
+    margin: 0;
+}
+
+p {
+    font-family: 'Jost';
+    color: #454868;
+    font-size: 14px;
+}

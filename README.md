@@ -12,6 +12,7 @@
 <img  src="./public/images/punto-2.png">
 
 <h2>Punto 3: Diseño CON CSS</h2>
+<img  src="./public/images/punto-3.png">
 
 <h2>Punto 4: Titulos</h2>
 
