@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border: 1px dotted black;
+    margin: 10px 270px;
+    background-color: yellow;
+}
+
+thead {
+    color: red;
+    font-family: 'Jane LightItalic W00 Regular';
+}
+
+.letra_inicial {
+    font-size: 30px;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    border: 1px dotted black;
+}
+.linea_borde {
+    border-bottom: 1px dashed red;
+}

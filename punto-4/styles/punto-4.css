@@ -1,13 +1,14 @@
-h2 {
+div {
+    text-align: center;
+    font-family:'Arial';
+    font-weight: bold;
+    
+}
+
+.azul {
     color: blue;
 }
 
-div h2{
+h2{
       color: red;
     }
-h6 {
-    line-height: 3.5;
-}
-p.underover {
-    text-decoration: underline overline;
-}

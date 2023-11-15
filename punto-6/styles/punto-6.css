@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.links {
+    text-align: left;
+}
+
+.link_marca {
+    color: yellow;
+}
+
+.link_as {
+    color: blueviolet;
+}

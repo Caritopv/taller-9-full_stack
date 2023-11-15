@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(203, 172, 204);
+   
+    max-width: 500px;
+}
+
+.navegador {
+    text-align: center;
+   }
+   a:hover {
+    background-color: blue;
+    }
+.listas, li, a {
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    padding: 5px 10px;
+ 
+   }
+
+ 

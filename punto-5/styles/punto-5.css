@@ -1,0 +1,29 @@
+.letra_verdesub {
+    color: green;
+}
+.letra_roja {
+    color: red;
+    font-weight: bold;
+
+}
+
+.line_up{
+    text-decoration: overline underline;
+}
+
+.letra_negrilla {
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+.letra_azul {
+    color: blue;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.letra_roja2 {
+    color: red;
+    font-size: 13pt;
+    font-weight: bold;
+}
