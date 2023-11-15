@@ -2,17 +2,16 @@
     display: flex;
     margin: 0 auto;
     background-color: rgb(203, 172, 204);
-   
     max-width: 500px;
 }
 
 .navegador {
     text-align: center;
    }
-   a:hover {
+a:hover {
     background-color: blue;
     }
-.listas, li, a {
+.seleccion, li, a {
     display: flex;
     gap: 10px;
     text-decoration: none;
